@@ -103,14 +103,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-## Support
-
-If you find this project helpful, consider supporting me on Ko-fi:  
-[ko-fi.com/allanninal](https://ko-fi.com/allanninal)
-
----
-
-## Explore More Projects
-
-For more exciting projects, check out my list of **AI Mini Projects**:  
-[Mini AI Projects GitHub List](https://github.com/stars/allanninal/lists/mini-ai-projects)
